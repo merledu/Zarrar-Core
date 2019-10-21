@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/fizza/chisel-tutorial/src/test/scala/riscv/memorydataTest.scala:6:12: value adder is not a member of chisel3.Bundle{val address: chisel3.core.UInt; val wdata: chisel3.core.UInt; val data_out: chisel3.core.UInt}[0m
+[0m[[0m[31merror[0m] [0m[0m	poke(c.io.adder, 1)[0m
+[0m[[0m[31merror[0m] [0m[0m	          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/fizza/chisel-tutorial/src/test/scala/riscv/memorydataTest.scala:7:12: value data is not a member of chisel3.Bundle{val address: chisel3.core.UInt; val wdata: chisel3.core.UInt; val data_out: chisel3.core.UInt}[0m
+[0m[[0m[31merror[0m] [0m[0m	poke(c.io.data, 2)[0m
+[0m[[0m[31merror[0m] [0m[0m	          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/fizza/chisel-tutorial/src/test/scala/riscv/memorydataTest.scala:9:14: value out is not a member of chisel3.Bundle{val address: chisel3.core.UInt; val wdata: chisel3.core.UInt; val data_out: chisel3.core.UInt}[0m
+[0m[[0m[31merror[0m] [0m[0m	expect(c.io.out, 2)[0m
+[0m[[0m[31merror[0m] [0m[0m	            ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

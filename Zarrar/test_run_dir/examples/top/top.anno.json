@@ -1,0 +1,10 @@
+[
+  {
+    "class":"firrtl.annotations.LoadMemoryAnnotation",
+    "target":"top.insmem.mem",
+    "fileName":"/home/fizza/textfile.txt",
+    "hexOrBinary":{
+      "name":"h"
+    }
+  }
+]

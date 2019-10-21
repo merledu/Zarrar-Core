@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/fizza/riscv/squadron/src/main/scala/riscv/Alu.scala:52:16: method != in class SInt is deprecated: Use '=/=', which avoids potential precedence problems[0m
+[0m[[0m[33mwarn[0m] [0m[0m		when (io.in1 != io.in2){io.out := 1.S}[0m
+[0m[[0m[33mwarn[0m] [0m[0m		             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
